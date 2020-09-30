@@ -1,0 +1,2 @@
+Bu projede 4x4 keypad kullanarak kapı açma sistemi tasarladım. Kapı açmak için kullanıcının keypadden giriş yapması gerekiyor. Giriş yaptıktan sonra
+kapıyı açıp kapatabiliyor. İzinsiz girmeye çalışanları sistem bekletiyor. Çıkış yaparken kapı açıksa kapatıyor.
